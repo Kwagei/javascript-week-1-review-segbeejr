@@ -59,7 +59,7 @@ function palindrome(word){
             return "Not a Palindrome";
         }
     }
-    return smallLetters "is a Palindrome";
+    return smallLetters "Palindrome";
 }
 
 
